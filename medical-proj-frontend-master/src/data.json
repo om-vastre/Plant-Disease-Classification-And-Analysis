@@ -1,0 +1,1325 @@
+{
+
+  "Late Blight on Tomatoes": {
+    "Information": {
+      "img1": "https://shorturl.at/jnzIM",
+      "img2": "https://shorturl.at/jnzIM",
+      "img3": "https://shorturl.at/jnzIM",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque luctus odio eu varius feugiat. Morbi sed tempor nunc. Donec suscipit feugiat odio, ut euismod libero ornare non. Cras neque purus, finibus nec volutpat sed, aliquet at ipsum. Phasellus placerat ultricies metus, vitae sodales mauris tincidunt sit amet. In nec dui.",
+      "Pesticides": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. -ABCD -EFGH -IJKL -MNOP"
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021,
+          2022, 2023
+        ],
+        "data": [
+          10789, 11789, 12546, 13458, 12489, 14852, 15799, 18037, 14049, 11485,
+          13954, 14589, 12354
+        ]
+      },
+      "MonthsChart": {
+        "xaxis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [7, 8, 2, 6, 8, 9, 1, 5, 40, 1, 7, 6]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides4BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        }
+      }
+    },
+    "Table": {
+      "Params": [
+        "Spectrum of Activity",
+        "Mode of Action",
+        "Efficacy",
+        "Cost",
+        "Environmental Impact",
+        "Resistance Management"
+      ],
+      "Pesticides1": ["Broad-spectrum", "Contact", "75%", "Low", "Low", "Low"],
+      "Pesticides2": [
+        "Narrow-spectrum",
+        "Systemic",
+        "90%",
+        "Moderate",
+        "Moderate",
+        "Medium"
+      ],
+      "Pesticides3": [
+        "Broad-spectrum",
+        "Contact",
+        "60%",
+        "Low",
+        "Very Low",
+        "Low"
+      ],
+      "Pesticides4": [
+        "Narrow-spectrum",
+        "Preventative/Curative",
+        "Variable",
+        "Moderate",
+        "Minimal",
+        "Very Low"
+      ]
+    }
+  },
+
+  "Apple___Apple_scab": {
+    "Information": {
+      "img1": "https://extension.umn.edu/sites/extension.umn.edu/files/Apple-scab-advanced-leaves-Grabowski.jpg",
+      "img2": "https://extension.umn.edu/sites/extension.umn.edu/files/apple-scab-1.jpg",
+      "img3": "https://www.davey.com/media/2isb3ld0/pest-and-disease_apple-scab_banner_1440x500.jpg?width=1920&height=672&rnd=133054052165100000&format=webp&quality=45",
+      "Description": "Apple scab is a fungal disease causing olive-green or black spots on leaves and scabby, cracked lesions on fruits. It thrives in cool, wet weather.  The fungus overwinters in fallen leaves and spreads via spores carried by wind and rain. Apple scab can cause cosmetic damage, premature fruit drop, and weaken the tree.",
+      "Pesticides": "Here are some pesticides for disease: -Captan: A broad spectrum fungicide used widely for preventative control of apple scab. -Myclobutanil: A systemic fungicide that offers both preventative and some curative action. -Mancozeb: Another protective fungicide frequently used for apple scab control. -Sulfur: A preventative fungicide with long-standing use against apple scab. It works best under warmer temperatures."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          10789, 11789, 12546, 13458, 12489, 14852, 15799, 18037, 14049, 11485, 13954, 14589, 12354
+        ]
+      },
+      "MonthsChart": {
+        "xaxis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [0, 5, 15, 25, 25, 15, 10, 10, 8, 7, 2, 1]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides4BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        }
+      }
+    },
+    "Table": {
+      "Params": [
+        "Spectrum of Activity",
+        "Mode of Action",
+        "Efficacy",
+        "Cost",
+        "Environmental Impact",
+        "Resistance Management"
+      ],
+      "Pesticides1": ["Broad-spectrum", "Contact", "75%", "Low", "Low", "Low"],
+      "Pesticides2": [
+        "Narrow-spectrum",
+        "Systemic",
+        "90%",
+        "Moderate",
+        "Moderate",
+        "Medium"
+      ],
+      "Pesticides3": [
+        "Broad-spectrum",
+        "Contact",
+        "60%",
+        "Low",
+        "Very Low",
+        "Low"
+      ],
+      "Pesticides4": [
+        "Narrow-spectrum",
+        "Preventative/Curative",
+        "Variable",
+        "Moderate",
+        "Minimal",
+        "Very Low"
+      ]
+    }
+  },
+
+  "Apple___Black_rot": {
+    "Information": {
+      "img1": "https://www.researchgate.net/profile/Mrdipra-Mitra/publication/373166181/figure/fig1/AS:11431281181941231@1692255891213/Apple-black-rot-figure-1-shows-apple-black-rot-while-preprocessing-an-infected-leaf.jpg",
+      "img2": "https://extension.umn.edu/sites/extension.umn.edu/files/1234144-PPT.jpg",
+      "img3": "https://gardenerspath.com/wp-content/uploads/2019/08/How-to-Identify-and-Control-Apple-Black-Rot-and-Frogeye-Leaf-Spot-Pin.jpg",
+      "Description": "Apple Black Rot is a fungal disease that affects apple trees, caused by Botryosphaeria obtusa. It manifests as black, sunken lesions on fruits and leaves, leading to premature fruit drop and tree defoliation. It spreads rapidly in warm, wet conditions, posing a significant threat to orchards worldwide, necessitating vigilant management and preventive measures for control.",
+      "Pesticides": "Here are some pesticides for disease: -Captan: A broad-spectrum fungicide effective against various fungal diseases, including Black Rot. It prevents spore germination and inhibits fungal growth on apple trees. -Thiophanate-methyl: This systemic fungicide offers protective and curative control against Apple Black Rot by inhibiting fungal cell wall synthesis, thus preventing disease development. -Mancozeb: A multi-site fungicide that disrupts several stages of the fungal life cycle, including spore germination and mycelial growth, providing effective control against Apple Black Rot when applied preventively."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          10789, 11789, 12546, 13458, 12489, 14852, 15799, 18037, 14049, 11485, 13954, 14589, 12354
+        ]
+      },
+      "MonthsChart": {
+        "xaxis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [0, 5, 8, 10, 30, 40, 20, 30, 10, 15, 8, 5]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        },
+        "Pesticides4BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [70, 80, 40, 60, 80, 90]
+        }
+      }
+    },
+    "Table": {
+      "Params": [
+        "Spectrum of Activity",
+        "Mode of Action",
+        "Efficacy",
+        "Cost",
+        "Environmental Impact",
+        "Resistance Management"
+      ],
+      "Pesticides1": ["Broad-spectrum", "Disrupts fungal cell processes", "Generally effective", "Moderate", "Moderate", "Rotate to prevent resistance"],
+      "Pesticides2": [
+        "Broad-spectrum",
+        "Systemic",
+        "Generally effective",
+        "Moderate",
+        "Moderate",
+        "Rotate for resistance management"
+      ],
+      "Pesticides3": [
+        "Broad-spectrum",
+        "Multi-site, disrupts fungal life cycle",
+        "Generally effective",
+        "Relatively low",
+        "Moderate",
+        "Rotate to delay resistance development"
+      ]
+    }
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "Information": {
+      "img1": "https://cdn.britannica.com/61/185161-050-726ED959/spots-Orange-cedar-apple-rust-disease-apple-leaf.jpg",
+      "img2": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/images/cedarapplerust/Gymnosparangium_juniperi-virginianae_23A_lg.jpg",
+      "img3": "https://content.ces.ncsu.edu/media/images/Rust_Romes_.jpeg",
+      "Description": "Apple Cedar Apple Rust is a fungal disease affecting apple trees caused by Gymnosporangium juniperi-virginianae. It manifests as orange-yellow lesions on leaves and fruit, leading to defoliation and reduced fruit quality. The fungus completes its life cycle on both apple and cedar trees, making management challenging. Fungicides and removing nearby cedar hosts can help control its spread.",
+      "Pesticides": "Here are some pesticides for disease: -Captan: A broad-spectrum fungicide effective against Cedar apple rust, providing protective action against fungal spores on apple trees. -Myclobutanil: Systemic fungicide that controls Cedar apple rust by inhibiting fungal growth and preventing infection on apple foliage. -Thiophanate-methyl: Fungicide with curative and protective properties against Cedar apple rust, providing long-lasting control on apple trees."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data":[
+          250000, 275000, 300000, 325000, 350000, 375000, 400000, 425000, 450000, 475000, 500000, 525000, 550000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "data": [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 88, 82, 90, 87, 89]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 84, 78, 85, 82, 83]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 79, 73, 80, 77, 78]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Spectrum of Activity","Mode of Action","Efficacy","Cost","Environmental Impact","Resistance Management"],
+      "Pesticides1": ["Broad-spectrum", "Protective action", "Moderate", "Low", "Moderate", "Good"],
+      "Pesticides2":["Systemic", "Inhibition of fungal growth", "Moderate to high", "Moderate", "Low", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Curative and protective", "Moderate to high", "High", "Low", "Fair"]
+    }
+  },
+
+  "Cherry___Powdery_mildew": {
+    "Information": {
+      "img1": "https://s3.us-west-2.amazonaws.com/decisionaid.systems/images/articles/IMG_1369.jpg",
+      "img2": "https://i0.wp.com/blog.pestprophet.com/wp-content/uploads/2018/12/powdery-tcherry1_zoom.jpg?fit=900%2C1200&ssl=1",
+      "img3": "https://treefruit.wsu.edu/wp-content/uploads/2017/05/Fig2.png",
+      "Description": "Cherry powdery mildew is a fungal disease that affects cherry trees, caused by species of the fungus Podosphaera. It manifests as powdery white patches on leaves, shoots, and fruit surfaces. Severe infections can lead to defoliation, stunted growth, and reduced fruit quality. Control measures include fungicide application, pruning infected plant parts, and improving air circulation in the orchard.",
+      "Pesticides": "Here are some pesticides for disease: -Sulfur: A natural fungicide effective against cherry powdery mildew, forming a protective barrier on plant surfaces to inhibit fungal growth. -Triadimefon: Systemic fungicide that controls cherry powdery mildew by inhibiting fungal development within the plant tissues. -Potassium bicarbonate: Contact fungicide effective in preventing and eradicating cherry powdery mildew by disrupting fungal cell membranes and altering pH levels on plant surfaces."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          300000, 325000, 350000, 375000, 400000, 425000, 450000, 475000, 500000, 525000, 550000, 575000, 600000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Spectrum of Activity","Mode of Action","Efficacy","Cost","Environmental Impact","Resistance Management"],
+      "Pesticides1": ["Broad-spectrum", "Protective barrier", "Moderate", "Low", "Low", "Good"],
+      "Pesticides2": ["Systemic", "Fungal development inhibition", "Moderate", "Moderate", "Moderate", "Fair"],
+      "Pesticides3": ["Contact", "Disruption of fungal cell membranes", "Moderate", "Low", "Low", "Good"]
+    }
+  },
+
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "Information": {
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gray_leaf_spot_Cercospora_zeae-maydis_5465607.png",
+      "img2": "https://bugwoodcloud.org/images/768x512/5465613.jpg",
+      "img3": "https://cs-assets.bayer.com/is/image/bayer/2019080504?ts=1689086443066&dpr=off",
+      "Description": "Corn Cercospora leaf spot, also known as gray leaf spot, is a fungal disease affecting corn crops worldwide. It is caused by the fungus Cercospora zeae-maydis. Symptoms include small, oval-to-elliptical lesions with gray centers and dark borders on leaves, which can coalesce under favorable conditions. Severe infections lead to reduced photosynthetic capacity and yield losses in corn plants.",
+      "Pesticides": "Here are some pesticides for disease: -Azoxystrobin: A systemic fungicide effective against Corn Cercospora leaf spot, inhibiting fungal respiration and preventing the spread of the disease within the plant. -Propiconazole: Broad-spectrum fungicide controlling various fungal diseases, including Gray leaf spot, by disrupting fungal cell membrane function. -Chlorothalonil: Contact fungicide providing protective action against Corn Cercospora leaf spot, forming a barrier on plant surfaces to inhibit fungal spore germination and development."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          350000, 375000, 400000, 425000, 450000, 475000, 500000, 525000, 550000, 575000, 600000, 625000, 650000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Spectrum of Activity","Mode of Action","Efficacy","Cost","Environmental Impact","Resistance Management"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (respiration inhibition)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Broad-spectrum", "Disruption of fungal cell membrane", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides3": ["Contact", "Protective action (barrier formation)", "Moderate", "Low", "High", "Good"]
+    }
+  },
+  
+  "Corn___Common_rust": {
+    "Information": {
+      "img1": "https://ohioline.osu.edu/sites/ohioline/files/imce/Plant_Pathology/PLNTPTH-CER-02_Figure_1.png",
+      "img2": "https://extension.umn.edu/sites/extension.umn.edu/files/commonrust2_600px.jpg",
+      "img3": "https://extension.umn.edu/sites/extension.umn.edu/files/commonrust_600px.jpg",
+      "Description": "Corn common rust is a fungal disease caused by the pathogen Puccinia sorghi, affecting corn crops globally. It manifests as small, circular to elongated orange or brown pustules on both leaf surfaces, which later turn dark brown or black. Severe infections can lead to reduced photosynthesis, stunted growth, and diminished yield in corn plants, necessitating timely management strategies.",
+      "Pesticides": "Here are some pesticides for disease: -Trifloxystrobin: A systemic fungicide effective against Corn Common Rust, providing long-lasting protection by inhibiting mitochondrial respiration in the fungal pathogen. -Tebuconazole: Broad-spectrum fungicide controlling Corn Common Rust through inhibition of fungal cell membrane synthesis, preventing further spread of the disease. -Fluopyram: Systemic fungicide with preventative and curative properties against Corn Common Rust, disrupting fungal cell division and growth."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          400000, 425000, 450000, 475000, 500000, 525000, 550000, 575000, 600000, 625000, 650000, 675000, 700000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Spectrum of Activity","Mode of Action","Efficacy","Cost","Environmental Impact","Resistance Management"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (respiration inhibition)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Broad-spectrum", "Disruption of fungal cell membrane synthesis", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Preventative and curative (cell division disruption)", "Moderate to high", "High", "Low", "Good"]
+    }
+  },
+
+  "Corn___Northern_Leaf_Blight": {
+    "Information": {
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sporulation_on_leaf.JPG/220px-Sporulation_on_leaf.JPG",
+      "img2": "https://bugwoodcloud.org/images/3072x2048/5608520.jpg",
+      "img3": "https://www.pioneer.com/content/dam/dpagco/pioneer/na/us/en/images/agronomy/crops/corn/diseases/IMG-Photo-Resistant-Response-Corn-Leaf.jpg",
+      "Description": "Corn Northern Leaf Blight is a fungal disease caused by the pathogen Exserohilum turcicum, prevalent in corn-growing regions worldwide. It manifests as large, cigar-shaped lesions with gray-green centers and dark borders on corn leaves, reducing photosynthetic capacity and yield. Severe infections may lead to significant crop losses, necessitating timely management strategies such as fungicide applications and resistant crop varieties.",
+      "Pesticides": "Here are some pesticides for disease: -Azoxystrobin: Systemic fungicide effective against Corn Northern Leaf Blight, inhibiting fungal respiration and preventing disease spread. -Pyraclostrobin: Broad-spectrum fungicide controlling Corn Northern Leaf Blight by disrupting fungal cell respiration and growth. -Mancozeb: Contact fungicide providing protective action against Corn Northern Leaf Blight, forming a barrier on plant surfaces to inhibit fungal growth."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          450000, 475000, 500000, 525000, 550000, 575000, 600000, 625000, 650000, 675000, 700000, 725000, 750000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Spectrum of Activity","Mode of Action","Efficacy","Cost","Environmental Impact","Resistance Management"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (respiration inhibition)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Broad-spectrum", "Disruption of fungal cell respiration and growth", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides3": ["Contact", "Protective action (barrier formation)", "Moderate", "Low", "High", "Good"]
+    }
+  },
+
+  "Grape___Black_rot": {
+    "Information": {
+      "img1": "https://source.roboflow.com/at8ytVOoMpTCdCyjvYtikGsoRNr1/hqdYK6WvMC78rQBG9I57/original.jpg",
+      "img2": "https://ohioline.osu.edu/sites/ohioline/files/imce/Plant_Pathology/PLPATH-FRU-24_Fig1-black-rot-spots-on-grape-leaf_Page_1.jpg",
+      "img3": "https://source.roboflow.com/at8ytVOoMpTCdCyjvYtikGsoRNr1/1z4OlI31lYzSyTIbwkR3/original.jpg",
+      "Description": "Grape Black Rot is a fungal disease caused by the pathogen Guignardia bidwellii, prevalent in grape-growing regions globally. It manifests as small dark spots on leaves, which enlarge and develop concentric rings. Infected fruit also shows dark lesions, leading to premature berry drop and reduced yield. Control measures include fungicide applications and cultural practices to reduce moisture and fungal spore spread.",
+      "Pesticides": "Here are some pesticides for disease: -Captan: Broad-spectrum fungicide effective against Grape Black Rot, providing protective action by inhibiting fungal spore germination and growth. -Myclobutanil: Systemic fungicide controlling Grape Black Rot by inhibiting fungal growth within the plant tissues, offering long-lasting protection. -Boscalid: Contact and systemic fungicide targeting Grape Black Rot, disrupting fungal respiration and preventing disease development."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          600000, 625000, 650000, 675000, 700000, 725000, 750000, 775000, 800000, 825000, 850000, 875000, 900000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [20, 30, 45, 55, 60, 50, 35, 25, 15, 10, 5, 10]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (respiration inhibition)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Systemic", "Inhibition of fungal growth within plant tissues", "Moderate to high", "Moderate", "Low", "Fair"],
+      "Pesticides3": ["Contact and systemic", "Disruption of fungal respiration", "Moderate", "Moderate", "Moderate", "Good"]
+    }
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "Information": {
+      "img1": "https://www.evineyardapp.com/blog/wp-content/uploads/2016/02/esca-1024x576.jpg",
+      "img2": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ESCA_Blattsymptom_1.JPG",
+      "img3": "https://www.researchgate.net/publication/362018526/figure/fig2/AS:11431281111816559@1673213584163/mage-example-of-Esca-measles-infected-leaf_Q320.jpg",
+      "Description": "Grape Esca, also known as Black Measles, is a complex fungal disease affecting grapevines globally. It manifests through various symptoms, including leaf discoloration, wood necrosis, and internal blackening of tissues. Esca can lead to reduced vigor, yield losses, and even vine death. Its management typically involves cultural practices, pruning techniques, and sometimes chemical treatments to mitigate its impact on vineyards.",
+      "Pesticides": "Here are some pesticides for disease: -Bacillus subtilis: Biofungicide effective against Grape Esca, working through colonization and competition with fungal pathogens. -Trichoderma harzianum: Biofungicide targeting Grape Esca, suppressing fungal growth through competition and antibiosis. -Cyprodinil + Fludioxonil: Chemical fungicide combination effective against Grape Esca, inhibiting fungal growth and spore germination."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          700000, 725000, 750000, 775000, 800000, 825000, 850000, 875000, 900000, 925000, 950000, 975000, 1000000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [12, 15, 18, 20, 22, 18, 15, 12, 8, 5, 3, 5]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Narrow-spectrum", "Competitive colonization", "Moderate", "Low", "Low", "Fair"],
+      "Pesticides2": ["Narrow-spectrum", "Competition and antibiosis", "Moderate", "Low", "Low", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Inhibition of fungal growth and spore germination", "Moderate to high", "Moderate", "Moderate", "Fair"]
+    }
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "Information": {
+      "img1": "https://source.roboflow.com/dMjGrME8SnaLLAZzZe5d/025xyfHvH82V34deL9Hr/original.jpg",
+      "img2": "https://bugwoodcloud.org/images/1536x1024/5405317.jpg",
+      "img3": "https://source.roboflow.com/dMjGrME8SnaLLAZzZe5d/JB5AXMukdJ5rF9RaQmzR/original.jpg",
+      "Description": "Grape Leaf Blight, also known as Isariopsis Leaf Spot, is a fungal disease affecting grapevines globally. It manifests as small, circular lesions on grape leaves, initially green and later turning dark brown with a yellow halo. Severe infections can lead to defoliation and reduced grape quality. Management involves fungicide applications and cultural practices to reduce fungal spore dissemination and infection.",
+      "Pesticides": "Here are some pesticides for disease: -Azoxystrobin: Systemic fungicide effective against Grape Leaf Blight, providing broad-spectrum control by inhibiting fungal respiration. -Copper-based fungicides: Contact fungicides targeting Grape Leaf Blight, exerting their action through disruption of fungal cell membranes and enzyme function. -Propiconazole: Systemic fungicide controlling Grape Leaf Blight, inhibiting fungal sterol biosynthesis and preventing disease spread."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          800000, 825000, 850000, 875000, 900000, 925000, 950000, 975000, 1000000, 1025000, 1050000, 1075000, 1100000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [6, 8, 10, 13, 16, 13, 10, 8, 5, 3, 3, 4]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (respiration inhibition)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Contact", "Disruption of fungal cell membranes and enzymes", "Moderate", "Low", "High", "Good"],
+      "Pesticides3": ["Broad-spectrum", "Inhibition of fungal sterol biosynthesis", "Moderate to high", "Moderate", "Moderate", "Fair"]
+    }
+  },
+
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "Information": {
+      "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ywz1L3VtT1kzkmSnK4CB-fwPYSs9qMdcTQ&usqp=CAU",
+      "img2": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b6ba143c-963b-4316-8cc0-1cbfc0102eb4/Rendition/low-res/Content/Public",
+      "img3": "https://www.invaio.com/~/media/Images/I/Invaio-Corp/image/solutions/tree-health/citrus-health/citrus-greenings.jpg?h=420&iar=0&w=748",
+      "Description": "Citrus Greening, also known as Huanglongbing (HLB) or Yellow Shoot Disease, is a severe bacterial disease affecting citrus trees worldwide. It is spread by insect vectors, particularly the Asian citrus psyllid. Symptoms include yellow shoots, misshapen fruit, and bitter-tasting juice. Citrus Greening causes decline in tree health, reduced fruit yield, and eventual death. Management involves insect control, affected tree removal, and planting of disease-resistant varieties.",
+      "Pesticides": "Here are some pesticides for disease: -Imidacloprid: Systemic insecticide effective against Citrus Greening, targeting insect vectors such as the Asian citrus psyllid. -Spirotetramat: Systemic insecticide controlling Citrus Greening by inhibiting insect growth and development. -Chlorpyrifos: Contact insecticide providing control against Citrus Greening, targeting insect pests on citrus trees."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          900000, 925000, 950000, 975000, 1000000, 1025000, 1050000, 1075000, 1100000, 1125000, 1150000, 1175000, 1200000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [7.41, 8.33, 9.26, 10.19, 11.11, 10.19, 9.26, 8.33, 7.41, 6.50, 5.59, 6.50]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Systemic (insect nervous system)", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Systemic", "Inhibition of insect growth and development", "Moderate to high", "Moderate", "Low", "Good"],
+      "Pesticides3": ["Contact", "Inhibition of insect nervous system", "Moderate", "Low", "Moderate", "Fair"]
+    }
+  },
+
+  "Peach___Bacterial_spot": {
+    "Information": {
+      "img1": "https://cdn.mos.cms.futurecdn.net/AA8tPA7mq5RNPw2J3rT3VH.jpg",
+      "img2": "https://onfruit.ca/wp-content/uploads/2020/06/shothole-bacterial-spot.jpg",
+      "img3": "https://www.aces.edu/blog/topics/crop-production/bacterial-spot-treatment-in-peaches/copper-damage-to-peach/",
+      "Description": "Peach Bacterial Spot is a common disease affecting peach trees, caused by the bacterium Xanthomonas arboricola pv. pruni. It primarily manifests as dark lesions on leaves, fruit, and twigs, often surrounded by a yellow halo. Severe infections can lead to defoliation, fruit loss, and reduced tree vigor. Management involves cultural practices, sanitation, and copper-based fungicides.",
+      "Pesticides": "Here are some pesticides for disease: -Copper-based fungicides: Contact fungicides effective against Peach Bacterial Spot, working by disrupting bacterial cell membranes and enzymes. -Streptomycin sulfate: Antibiotic fungicide controlling Peach Bacterial Spot, inhibiting bacterial growth and reproduction. -Copper oxychloride: Broad-spectrum fungicide targeting Peach Bacterial Spot, providing protective and curative action against bacterial infections."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [
+          2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+        ],
+        "data": [
+          500000, 525000, 550000, 575000, 600000, 625000, 650000, 675000, 700000, 725000, 750000, 775000, 800000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [2.0, 3.0, 5.0, 12.0, 18.0, 16.0, 13.0, 9.0, 5.0, 3.0, 1.0, 1.0]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Contact", "Disruption of bacterial cell membranes and enzymes", "Moderate to high", "Low", "High", "Good"],
+      "Pesticides2": ["Broad-spectrum", "Inhibition of bacterial growth and reproduction", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Protective and curative action", "Moderate", "Low", "Moderate", "Fair"]
+    }
+  },
+
+  "Pepper_bell___Bacterial_spot": {
+    "Information": {
+      "img1": "https://backbonevalleynursery.com/wp-content/uploads/2021/05/pepper-bacterial-leaf-spot-close-cropped.jpg",
+      "img2": "https://plantpath.ifas.ufl.edu/u-scout/pepper/images/bacterial-spot/22161DD2C3964DF39A98F053EB87FBF3/4-70.png",
+      "img3": "https://extension.wvu.edu/files/50d2bf3d-125f-4b45-9c03-487959bd8344/893x595?cb=0862b40bec913b574f1f05f79f2805c7",
+      "Description": "Peach Bacterial Spot, caused by the bacterium Xanthomonas arboricola pv. pruni, is a common disease affecting peach trees. It manifests as dark lesions on leaves, fruits, and stems, often accompanied by a yellow halo. Severe infections can lead to defoliation, reduced fruit yield, and overall decline in tree health. Control measures involve cultural practices, chemical treatments, and use of disease-resistant cultivars.",
+      "Pesticides": "Here are some pesticides for disease: -Copper-based fungicides: Contact fungicides effective against Peach Bacterial Spot, working by disrupting bacterial cell membranes and enzymes. -Streptomycin sulfate: Antibiotic fungicide controlling Peach Bacterial Spot, inhibiting bacterial growth and reproduction. -Copper oxychloride: Broad-spectrum fungicide targeting Peach Bacterial Spot, providing protective and curative action against bacterial infections."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [600000, 625000, 650000, 675000, 700000, 725000, 750000, 775000, 800000, 825000, 850000, 875000, 900000]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Contact", "Disruption of bacterial cell membranes and enzymes", "Moderate to high", "Low", "High", "Good"],
+      "Pesticides2": ["Broad-spectrum", "Inhibition of bacterial growth and reproduction", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Protective and curative action", "Moderate", "Low", "Moderate", "Fair"]
+    }
+  },
+
+  "Potato___Early_blight": {
+    "Information": {
+      "img1": "https://www.planetnatural.com/wp-content/uploads/2012/12/potato-blight.jpg",
+      "img2": "https://vegpath.plantpath.wisc.edu/wp-content/uploads/sites/210/2023/11/potato-early-blight-leaves.jpg",
+      "img3": "https://assets.syngenta.ca/images/pest/125/ca2020_early_blight_potato_damage2.png",
+      "Description": "Potato Early Blight, caused by the fungus Alternaria solani, is a common foliar disease affecting potato plants. It typically appears as small, dark brown lesions on the lower leaves, which may enlarge and coalesce, leading to leaf yellowing and premature defoliation. Severe infections can result in reduced yield and quality of potato tubers. Management strategies include crop rotation, fungicide applications, and proper plant hygiene.",
+      "Pesticides": "Here are some pesticides for disease: -Chlorothalonil: Broad-spectrum fungicide effective against various fungal diseases, including Potato Early Blight, by inhibiting fungal cell membrane formation. -Mancozeb: Multi-site fungicide with protective action against Potato Early Blight, inhibiting fungal respiration and cell division. -Azoxystrobin: Systemic fungicide providing preventive and curative control against Potato Early Blight, disrupting fungal respiration at the mitochondrial level."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          800000, 825000, 850000, 875000, 900000, 925000, 950000, 975000, 1000000, 1025000, 1050000, 1075000, 1100000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Inhibition of fungal cell membrane formation", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides2": ["Multi-site", "Inhibition of fungal respiration and cell division", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides3": ["Systemic", "Disruption of fungal respiration", "Moderate", "Moderate", "Low", "Good"]
+    }
+  },
+
+  "Potato___Late_blight": {
+    "Information": {
+      "img1": "https://spudsmart.com/wp-content/uploads/2017/05/potato_late-blight_08_zoom-Photo-OMAFRA-900x580.jpeg",
+      "img2": "https://cdn.shopify.com/s/files/1/0673/1697/3862/files/New_Project_-_2023-09-06T122557.265_600x600.jpg?v=1693983413",
+      "img3": "https://ipm.ucanr.edu/PMG/IMAGES/P/D-PO-PINF-FO.004banner.png",
+      "Description": "Potato Late Blight, caused by the oomycete Phytophthora infestans, is a devastating fungal-like disease affecting potato plants worldwide. It manifests as dark lesions on leaves, stems, and tubers, often accompanied by white mold growth in humid conditions. Late Blight can lead to rapid defoliation and complete crop loss if left untreated, posing significant economic and food security challenges to potato cultivation.",
+      "Pesticides": "Here are some pesticides for disease: -Mandipropamid: Protectant fungicide effective against Potato Late Blight, providing preventive control by inhibiting fungal spore germination. -Fluopicolide: Systemic fungicide with translaminar activity against Potato Late Blight, disrupting fungal cell membranes and preventing further growth. -Phosphorous acid: Curative and protective fungicide controlling Potato Late Blight, promoting plant health and inhibiting pathogen development."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          900000, 925000, 950000, 975000, 1000000, 1025000, 1050000, 1075000, 1100000, 1125000, 1150000, 1175000, 1200000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Protectant", "Inhibition of fungal spore germination", "Moderate to high", "Moderate", "Low", "Good"],
+      "Pesticides2": ["Systemic", "Disruption of fungal cell membranes", "Moderate to high", "High", "Moderate", "Good"],
+      "Pesticides3": ["Curative and protective", "Promotes plant health and inhibits pathogen development", "Moderate", "Low", "Low", "Good"]
+    }
+  },
+
+  "Squash___Powdery_mildew": {
+    "Information": {
+      "img1": "https://spudsmart.com/wp-content/uploads/2017/05/potato_late-blight_08_zoom-Photo-OMAFRA-900x580.jpeg",
+      "img2": "https://cdn.shopify.com/s/files/1/0673/1697/3862/files/New_Project_-_2023-09-06T122557.265_600x600.jpg?v=1693983413",
+      "img3": "https://ipm.ucanr.edu/PMG/IMAGES/P/D-PO-PINF-FO.004banner.png",
+      "Description": "Squash Powdery Mildew is a common fungal disease affecting squash plants, caused by the pathogen Podosphaera xanthii. It appears as white, powdery spots on the leaves, stems, and sometimes fruits of the squash plant. As the disease progresses, the affected plant parts may become distorted and eventually die off, leading to reduced yield and quality of squash harvests.",
+      "Pesticides": "Here are some pesticides for disease: -Sulfur: Contact fungicide effective against Powdery Mildew, working by inhibiting fungal spore germination and growth. -Potassium bicarbonate: Contact fungicide with protective and curative action against Powdery Mildew, disrupting fungal cell membranes. -Neem oil: Biopesticide derived from neem seeds, offering preventive and insecticidal properties against Powdery Mildew."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          700000, 725000, 750000, 775000, 800000, 825000, 850000, 875000, 900000, 925000, 950000, 975000, 1000000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Contact", "Inhibition of fungal spore germination and growth", "Moderate to high", "Low", "Low", "Fair"],
+      "Pesticides2": ["Contact", "Disruption of fungal cell membranes", "Moderate to high", "Low to moderate", "Low", "Fair"],
+      "Pesticides3": ["Biopesticide", "Preventive and insecticidal properties", "Moderate", "Low to moderate", "Low", "Fair"]
+    }
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "Information": {
+      "img1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rode-vlekkenziekte_%28Diplocarpon_earlianum%29.jpg/1200px-Rode-vlekkenziekte_%28Diplocarpon_earlianum%29.jpg",
+      "img2": "https://ohioline.osu.edu/sites/ohioline/files/imce/Plant_Pathology/PLPATH-FRU-35-Strawberry-Leaf-Diseases-figure-3.jpg",
+      "img3": "https://cdn.mos.cms.futurecdn.net/XkvoUQ5ffAU8j5Fq8DK3Vf.jpg",
+      "Description": "Strawberry Leaf Scorch is a fungal disease caused by Diplocarpon earlianum. It primarily affects strawberry plants, manifesting as reddish-brown lesions on the leaves, which eventually turn necrotic. Severe infections can lead to defoliation and reduced fruit yield. Management strategies include cultural practices, fungicide applications, and planting resistant varieties to minimize the impact of the disease on strawberry cultivation.",
+      "Pesticides": "Here are some pesticides for disease: -Azoxystrobin: Systemic fungicide effective against Leaf Scorch, providing preventive and curative control by inhibiting mitochondrial respiration in fungal cells. -Captan: Contact fungicide with protective action against Leaf Scorch, forming a barrier on the plant surface to prevent fungal spore germination. -Trifloxystrobin: Broad-spectrum systemic fungicide targeting Leaf Scorch, inhibiting fungal cell respiration and preventing further growth."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          600000, 625000, 650000, 675000, 700000, 725000, 750000, 775000, 800000, 825000, 850000, 875000, 900000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Systemic", "Inhibition of mitochondrial respiration", "Moderate to high", "Moderate", "Low", "Fair"],
+      "Pesticides2": ["Contact", "Protective action", "Moderate", "Low", "Moderate", "Good"],
+      "Pesticides3": ["Broad-spectrum systemic", "Inhibition of fungal cell respiration", "Moderate", "High", "Low", "Fair"]
+    }
+  },
+
+  "Tomato___Bacterial_spot": {
+    "Information": {
+      "img1": "https://content.peat-cloud.com/w400/bacterial-spot-and-speck-of-tomato-tomato-1584010249.jpg",
+      "img2": "https://ag.purdue.edu/department/arge/swpap/_media/bacterial-spot-of-tomato-1-original.jpg",
+      "img3": "https://vegcropshotline.org/wp-content/uploads/2022/06/IMG_3387.jpg",
+      "Description": "Tomato Bacterial Spot is a common bacterial disease caused by Xanthomonas campestris pv. vesicatoria. It affects tomato plants, primarily manifesting as dark, water-soaked lesions on leaves, stems, and fruits. In severe cases, the lesions may turn brown and develop a raised, scabby appearance. The disease can lead to defoliation, reduced fruit quality, and economic losses in tomato cultivation.",
+      "Pesticides": "Here are some pesticides for disease: -Copper-based fungicides: Broad-spectrum protectant fungicides effective against bacterial spot, offering preventive control by inhibiting bacterial growth. -Streptomycin: Antibiotic pesticide targeting bacterial pathogens, providing both preventive and curative action against bacterial spot. -Copper hydroxide: Contact fungicide with protective action against bacterial spot, forming a barrier on plant surfaces to prevent bacterial infection."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          850000, 875000, 900000, 925000, 950000, 975000, 1000000, 1025000, 1050000, 1075000, 1100000, 1125000, 1150000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 85, 78, 80, 82]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 88, 90, 83, 85, 88]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 80, 73, 75, 78]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Inhibition of bacterial growth", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides2": ["Narrow-spectrum", "Inhibition of bacterial protein synthesis", "High", "High", "High", "Good"],
+      "Pesticides3": ["Contact", "Protective action", "Moderate", "Low to moderate", "Low", "Fair"]
+    }
+  },
+
+  "Tomato___Early_blight": {
+    "Information": {
+      "img1": "https://content.ces.ncsu.edu/media/images/IMG_1302.jpeg",
+      "img2": "https://extension.umd.edu/sites/extension.umd.edu/files/styles/optimized/public/2021-05/hgic_veg_early%20blight%20lesions%20on%20tomato_1573858_1200.jpg?itok=0vxTRWo_",
+      "img3": "https://content.ces.ncsu.edu/media/images/IMG_1301.JPG",
+      "Description": "Tomato Early Blight is a fungal disease caused by Alternaria solani. It affects tomato plants, typically appearing as dark brown or black lesions with concentric rings on lower leaves. These lesions can enlarge and cause defoliation, reducing fruit yield and quality. Early Blight thrives in warm and humid conditions, posing a significant threat to tomato crops worldwide.",
+      "Pesticides": "Here are some pesticides for disease: -Chlorothalonil: Broad-spectrum protectant fungicide effective against Early Blight, providing preventive control by inhibiting fungal spore germination. -Mancozeb: Contact fungicide with protective action against Early Blight, forming a barrier on the plant surface to prevent fungal infection. -Azoxystrobin: Systemic fungicide effective against Early Blight, providing preventive and curative control by inhibiting fungal respiration."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          700000, 720000, 740000, 760000, 780000, 800000, 820000, 840000, 860000, 880000, 900000, 920000, 940000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [3.23, 4.88, 7.14, 11.76, 15.38, 13.07, 10.76, 8.45, 5.88, 4.23, 2.60, 2.60]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [75, 78, 73, 80, 77, 76]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Inhibition of fungal spore germination", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides2": ["Contact", "Protective action", "Moderate", "Low", "Moderate", "Good"],
+      "Pesticides3": ["Systemic", "Inhibition of fungal respiration", "Moderate", "Moderate", "Low", "Fair"]
+    }
+  },
+
+  "Tomato___Late_blight": {
+    "Information": {
+      "img1": "https://content.ces.ncsu.edu/media/images/IMG_5808.jpg",
+      "img2": "https://content.ces.ncsu.edu/media/images/IMG_5813.jpg",
+      "img3": "https://www.planetnatural.com/wp-content/uploads/2012/12/late-blight-tomato.jpg",
+      "Description": "Tomato Late Blight, caused by the oomycete pathogen Phytophthora infestans, is a devastating fungal disease affecting tomato plants. It manifests as dark, water-soaked lesions on leaves, stems, and fruits, rapidly spreading during periods of high humidity and cool temperatures. Late Blight can lead to complete defoliation and crop loss if not managed effectively, posing a significant threat to tomato cultivation worldwide.",
+      "Pesticides": "Here are some pesticides for disease: -Mefenoxam: Systemic fungicide effective against Late Blight, providing preventive and curative control by inhibiting fungal growth. -Chlorothalonil: Broad-spectrum protectant fungicide effective against Late Blight, offering preventive control by inhibiting fungal spore germination. -Mancozeb: Contact fungicide with protective action against Late Blight, forming a barrier on the plant surface to prevent fungal infection."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          850000, 870000, 900000, 920000, 950000, 980000, 1000000, 1020000, 1050000, 1080000, 1100000, 1120000, 1150000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [1.22, 1.66, 2.14, 4.76, 8.88, 15.79, 19.89, 17.68, 13.88, 8.23, 4.60, 2.21 ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 85, 78, 80, 82]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Systemic", "Inhibition of fungal growth", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Broad-spectrum", "Inhibition of fungal spore germination", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides3": ["Contact", "Protective action", "Moderate", "Low", "Moderate", "Good"]
+    }
+  },
+
+  "Tomato___Leaf_Mold": {
+    "Information": {
+      "img1": "https://extension.umn.edu/sites/extension.umn.edu/files/tomato-leaf-mold-comparison.png",
+      "img2": "https://www.vegetables.cornell.edu/files/2019/07/IMG_0033.jpg",
+      "img3": "https://www.vegetables.cornell.edu/files/2019/07/DSC_0126-2.jpg",
+      "Description": "Tomato Leaf Mold, caused by the fungus Passalora fulva, is a common foliar disease affecting tomato plants, particularly in humid and warm environments. It manifests as yellowish or brownish lesions on the upper surface of leaves, often accompanied by fuzzy, grayish mold growth on the underside. Severe infections can lead to defoliation and reduced fruit quality, impacting tomato yield and overall plant health.",
+      "Pesticides": "Here are some pesticides for disease: -Azoxystrobin: Broad-spectrum systemic fungicide effective against Leaf Mold, inhibiting fungal respiration and preventing spore germination. -Chlorothalonil: Contact fungicide with broad-spectrum activity against Leaf Mold, disrupting fungal cell membranes and inhibiting spore germination. -Mancozeb: Contact fungicide effective against Leaf Mold, forming a protective barrier on the plant surface to prevent fungal infection."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          1200000, 1250000, 1300000, 1280000, 1350000, 1400000, 1380000, 1420000, 1450000, 1480000, 1500000, 1550000, 1600000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          15, 18, 20, 22, 25, 28, 30, 32, 35, 38, 40, 42, 45
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 85, 78, 80, 82]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Inhibition of fungal respiration", "Moderate to high", "Moderate", "Moderate", "Fair"],
+      "Pesticides2": ["Broad-spectrum", "Disruption of fungal cell membranes", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides3": ["Contact", "Protective action", "Moderate", "Low", "Moderate", "Good"]
+    }
+  },
+
+  "Tomato___Septoria_leaf_spot": {
+    "Information": {
+      "img1": "https://content.ces.ncsu.edu/media/images/IMG_0675_NLNaTrA.jpeg",
+      "img2": "https://www.thespruce.com/thmb/weVlsHxnkA8mlSzf_FhKNMVLPKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/identifying-and-controlling-septoria-leaf-spot-of-tomato-1402974-02-b556ef33db30454dbc021c3e7cea89b5.jpg",
+      "img3": "https://www.thespruce.com/thmb/weVlsHxnkA8mlSzf_FhKNMVLPKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/identifying-and-controlling-septoria-leaf-spot-of-tomato-1402974-02-b556ef33db30454dbc021c3e7cea89b5.jpg",
+      "Description": "Tomato Septoria Leaf Spot, caused by the fungus Septoria lycopersici, is a common foliar disease affecting tomato plants worldwide. It appears as small, circular spots with dark brown centers and yellow halos on the lower leaves, gradually spreading upward. Severe infections can lead to defoliation, reduced fruit yield, and overall plant decline, affecting the quality and productivity of tomato crops.",
+      "Pesticides": "Here are some pesticides for disease: -Mancozeb: Contact fungicide effective against Septoria Leaf Spot, forms a protective barrier on the plant surface. -Copper based fungicides: Broad spectrum protectant fungicides effective against various foliar diseases, including Septoria Leaf Spot. -Chlorothalonil: Multi-site contact fungicide providing broad-spectrum control against Septoria Leaf Spot and other fungal diseases."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          1100000, 1150000, 1200000, 1180000, 1250000, 1300000, 1280000, 1320000, 1350000, 1380000, 1400000, 1450000, 1500000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 85, 78, 80, 82]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 87, 82, 90, 88, 86]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 78, 85, 83, 81] 
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Contact", "Protective action", "Moderate", "Low", "Moderate", "Good"],
+      "Pesticides2": ["Broad-spectrum", "Protective action", "Moderate to high", "Low to moderate", "Moderate", "Fair"],
+      "Pesticides3": ["Broad-spectrum", "Disruption of fungal cell membranes", "Moderate", "Low", "Moderate", "Fair"]
+    }
+  },
+
+  "Tomato___Spider_mites": {
+    "Information": {
+      "img1": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/9f/19f7d1e2-2a2a-11ee-84b3-635e3fa3c978/64be83ab979a2.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+      "img2": "https://plantpath.ifas.ufl.edu/u-scout/tomato/images/spider-mite-damage/22161DD2C3964DF39A98F053EB87FBF3/2-48.png",
+      "img3": "https://plantpath.ifas.ufl.edu/u-scout/tomato/images/spider-mite-damage/22161DD2C3964DF39A98F053EB87FBF3/7-22.png",
+      "Description": "Tomato Spider Mites, typically the two-spotted spider mite (Tetranychus urticae), are common pests of tomato plants. These tiny arachnids feed on plant fluids, causing stippling, yellowing, and eventually browning of leaves. Severe infestations can lead to reduced plant vigor, stunted growth, and even death of the plant. They reproduce rapidly, making control challenging without prompt intervention.",
+      "Pesticides": "Here are some pesticides for disease: -Acaricidal soap: A natural pesticide that suffocates spider mites on contact without leaving harmful residues. -Neem oil: Derived from the neem tree, it disrupts the feeding and reproductive capabilities of spider mites. -Abamectin: A systemic insecticide that affects the nervous system of spider mites, leading to paralysis and death."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          1200000, 1250000, 1280000, 1300000, 1350000, 1400000, 1450000, 1480000, 1500000, 1550000, 1600000, 1650000, 1700000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [2.23, 3.14, 4.76, 7.41, 11.11, 13.07, 14.81, 13.07, 9.52, 6.28, 4.05, 2.76]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 82, 80, 78, 75, 72]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 78, 75, 73, 70, 68]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [90, 88, 85, 82, 80, 78]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Narrow", "Contact", "Moderate", "Low", "Low", "Good"],
+      "Pesticides2": ["Broad", "Contact/Ingestion", "Moderate", "Low", "Low", "Fair"],
+      "Pesticides3": ["Broad", "Systemic", "High", "Moderate", "Moderate", "Fair"]
+    }
+  },
+
+  "Tomato___Target_Spot": {
+    "Information": {
+      "img1": "https://apps.lucidcentral.org/pppw_v10/images/entities/tomato_target_spot_163/img_4795.jpg",
+      "img2": "https://plantpath.ifas.ufl.edu/u-scout/tomato/images/target-spot/22161DD2C3964DF39A98F053EB87FBF3/2-21.png",
+      "img3": "https://apps.lucidcentral.org/pppw_v10/images/entities/tomato_target_spot_163/img_3478a.jpg",
+      "Description": "Tomato Target Spot, caused by the fungus Corynespora cassiicola, manifests as circular lesions with concentric rings on the leaves, stems, and fruit of tomato plants. These lesions start as small, dark spots and enlarge over time, leading to leaf yellowing and defoliation. In severe cases, it can cause significant yield losses and reduce fruit quality.",
+      "Pesticides": "Here are some pesticides for disease: -Mancozeb: Broad-spectrum fungicide effective against various fungal diseases. -Chlorothalonil: Multi-site mode of action fungicide with broad-spectrum activity against foliar diseases. -Azoxystrobin: Systemic fungicide with preventative and curative properties against fungal pathogens."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [100000, 110000, 105000, 115000, 120000, 125000, 130000, 135000, 140000, 145000, 150000, 155000, 160000, 165000, 170000, 175000, 180000, 185000, 190000, 195000, 200000, 205000, 210000]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [10.2, 11.5, 10.8, 12.3, 12.8, 13.5, 14.2, 14.8, 15.5, 16.2, 16.9, 17.5]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 84, 82, 80, 78, 76]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [87, 86, 84, 82, 80, 78]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [90, 88, 86, 84, 82, 80]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad", "Unknown", "High", "Moderate", "Moderate", "Unkmown"],
+      "Pesticides2": ["Systemic", "Systemic", "High", "High", "Low", "Low"],
+      "Pesticides3": ["Contact", "Contact", "Moderate", "Low", "Low", "Moderate"]
+    }
+  },
+
+  "Tomato___Tomato_mosaic_virus": {
+    "Information": {
+      "img1": "https://extension.usu.edu/pests/ipm/images/agricultural/vegetables/Tomato-mosaic-virus-2.jpg",
+      "img2": "https://blogs.ifas.ufl.edu/stlucieco/files/2023/03/1-29.png",
+      "img3": "https://blogs.ifas.ufl.edu/stlucieco/files/2023/03/1-141.png",
+      "Description": "Tomato Target Spot, caused by the fungus Corynespora cassiicola, manifests as circular lesions with concentric rings on the leaves, stems, and fruit of tomato plants. These lesions start as small, dark spots and enlarge over time, leading to leaf yellowing and defoliation. In severe cases, it can cause significant yield losses and reduce fruit quality.",
+      "Pesticides": "Here are some pesticides for disease: -Mancozeb: Broad-spectrum fungicide effective against various fungal diseases. -Chlorothalonil: Multi-site mode of action fungicide with broad-spectrum activity against foliar diseases. -Azoxystrobin: Systemic fungicide with preventative and curative properties against fungal pathogens."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          2150000, 2200000, 2300000, 2350000, 2400000, 2500000, 2550000, 2600000, 2650000, 2700000, 2750000, 2800000, 2850000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [5.2, 5.5, 6.0, 6.3, 6.8, 7.2, 7.5, 8.0, 8.3, 8.6, 9.0, 9.5]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [85, 84, 82, 80, 78, 76]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [87, 86, 84, 82, 80, 78]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [90, 88, 86, 84, 82, 80]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Antiviral", "High", "Moderate", "Moderate", "Not applicable"],
+      "Pesticides2": ["Specific", "Targeted", "Moderate", "Low", "Low", "Not applicable"],
+      "Pesticides3": ["Broad-spectrum", "Systemic", "High", "High", "Low", "Not applicable"]
+    }
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "Information": {
+      "img1": "https://www.greenlife.co.ke/wp-content/uploads/2022/04/Tomato-Leaf-Curl.jpg",
+      "img2": "https://content.peat-cloud.com/w400/tomato-yellow-leaf-curl-virus-tomato-1575981863.jpg",
+      "img3": "https://www.agric.wa.gov.au/sites/gateway/files/TYLCV%20leaflet%20cropped.jpg",
+      "Description": "Tomato Yellow Leaf Curl Virus (TYLCV) is a devastating viral disease affecting tomato plants worldwide. It is transmitted by the whitefly Bemisia tabaci and causes yellowing, curling, and stunting of leaves, leading to reduced yield and fruit quality. TYLCV can cause significant economic losses in tomato production, especially in warm and humid regions where whiteflies thrive.",
+      "Pesticides": "Here are some pesticides for disease: -Imidacloprid: Systemic insecticide effective against sucking insects like whiteflies, which transmit TYLCV. -Bifenthrin: Contact insecticide with broad-spectrum activity against various pests, including whiteflies. -Spirotetramat: Systemic insecticide with translaminar activity, effective against sucking pests like whiteflies."
+    },
+    "Graphs": {
+      "HistoryChart": {
+        "xaxis": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+        "data": [
+          10234000, 11250000, 11678000, 12560000, 13240000, 14560000, 15500000, 16234000, 16890000, 
+          17250000, 18567000, 19234000, 19800000, 20567000, 21234000, 22567000, 23234000, 23890000, 
+          24250000, 25567000, 26234000, 26800000, 27567000
+      ]
+      },
+      "MonthsChart": {
+        "xaxis": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+        "data": [
+          5.3, 6.1, 7.2, 8.5, 9.7, 11.2, 12.4, 13.9, 15.2, 16.7, 18.3, 19.8
+      ]
+      },
+      "PesticidesBarPlot": {
+        "Pesticides1BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data":  [85, 87, 88, 86, 85, 84]
+        },
+        "Pesticides2BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [80, 82, 83, 81, 80, 79]
+        },
+        "Pesticides3BarPlot": {
+          "xaxis": [2018, 2019, 2020, 2021, 2022, 2023],
+          "data": [90, 91, 92, 90, 89, 88]
+        }
+      }
+    },
+    "Table": {
+      "Params": ["Broad-spectrum", "Protective action (spore inhibition)", "Moderate to high", "Low", "Moderate", "Fair"],
+      "Pesticides1": ["Broad-spectrum", "Systemic", "High", "Low", "Low", "Not applicable"],
+      "Pesticides2": ["Specific", "Targeted", "Moderate", "Moderate", "Moderate", "Not applicable"],
+      "Pesticides3": ["Broad-spectrum", "Contact", "Moderate", "High", "Low", "Not applicable"]
+    }
+  }
+}
